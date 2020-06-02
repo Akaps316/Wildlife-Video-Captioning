@@ -1,0 +1,1039 @@
+{
+  "info": {
+    "contributor": "Abid Kapadi",
+    "data_created": "2020-02-23 13:00:20",
+    "version": "1.0",
+    "description": "This is 1.0 version of the wildlife video dataset for video captioning.",
+    "year": "2020"
+  },
+  "videos": [
+    {
+      "video_id": "video13",
+      "split": "train",
+      "id": 13
+    },
+    {
+      "video_id": "video14",
+      "split": "train",
+      "id": 14
+    },
+    {
+      "video_id": "video15",
+      "split": "train",
+      "id": 15
+    },
+    {
+      "video_id": "video17",
+      "split": "train",
+      "id": 17
+    },
+    {
+      "video_id": "video18",
+      "split": "train",
+      "id": 18
+    },
+    {
+      "video_id": "video19",
+      "split": "train",
+      "id": 19
+    },
+    {
+      "video_id": "video20",
+      "split": "train",
+      "id": 20
+    },
+    {
+      "video_id": "video21",
+      "split": "train",
+      "id": 21
+    },
+    {
+      "video_id": "video22",
+      "split": "train",
+      "id": 22
+    },
+    {
+      "video_id": "video23",
+      "split": "train",
+      "id": 23
+    },
+    {
+      "video_id": "video24",
+      "split": "train",
+      "id": 24
+    },
+    {
+      "video_id": "video25",
+      "split": "train",
+      "id": 25
+    },
+    {
+      "video_id": "video26",
+      "split": "train",
+      "id": 26
+    },
+    {
+      "video_id": "video27",
+      "split": "train",
+      "id": 27
+    },
+    {
+      "video_id": "video28",
+      "split": "train",
+      "id": 28
+    },
+    {
+      "video_id": "video29",
+      "split": "train",
+      "id": 29
+    },
+    {
+      "video_id": "video30",
+      "split": "train",
+      "id": 30
+    },
+    {
+      "video_id": "video31",
+      "split": "train",
+      "id": 31
+    },
+    {
+      "video_id": "video32",
+      "split": "train",
+      "id": 32
+    },
+    {
+      "video_id": "video33",
+      "split": "train",
+      "id": 33
+    },
+    {
+      "video_id": "video34",
+      "split": "train",
+      "id": 34
+    },
+    {
+      "video_id": "video35",
+      "split": "train",
+      "id": 35
+    },
+    {
+      "video_id": "video36",
+      "split": "train",
+      "id": 36
+    },
+    {
+      "video_id": "video37",
+      "split": "train",
+      "id": 37
+    },
+    {
+      "video_id": "video38",
+      "split": "train",
+      "id": 38
+    },
+    {
+      "video_id": "video39",
+      "split": "train",
+      "id": 39
+    },
+    {
+      "video_id": "video40",
+      "split": "train",
+      "id": 40
+    },
+    {
+      "video_id": "video41",
+      "split": "train",
+      "id": 41
+    },
+    {
+      "video_id": "video42",
+      "split": "train",
+      "id": 42
+    },
+    {
+      "video_id": "video43",
+      "split": "train",
+      "id": 43
+    },
+    {
+      "video_id": "video44",
+      "split": "train",
+      "id": 44
+    },
+    {
+      "video_id": "video45",
+      "split": "train",
+      "id": 45
+    },
+    {
+      "video_id": "video46",
+      "split": "train",
+      "id": 46
+    },
+    {
+      "video_id": "video47",
+      "split": "train",
+      "id": 47
+    },
+    {
+      "video_id": "video48",
+      "split": "train",
+      "id": 48
+    },
+    {
+      "video_id": "video49",
+      "split": "train",
+      "id": 49
+    },
+    {
+      "video_id": "video50",
+      "split": "train",
+      "id": 50
+    },
+    {
+      "video_id": "video51",
+      "split": "train",
+      "id": 51
+    },
+    {
+      "video_id": "video16",
+      "split": "train",
+      "id": 16
+    },
+    {
+      "video_id": "video1",
+      "split": "train",
+      "id": 1
+    },
+    {
+      "video_id": "video10",
+      "split": "train",
+      "id": 10
+    },
+    {
+      "video_id": "video12",
+      "split": "train",
+      "id": 12
+    },
+    {
+      "video_id": "video11",
+      "split": "train",
+      "id": 11
+    },
+    {
+      "video_id": "video2",
+      "split": "train",
+      "id": 2
+    },
+    {
+      "video_id": "video3",
+      "split": "train",
+      "id": 3
+    },
+    {
+      "video_id": "video4",
+      "split": "train",
+      "id": 4
+    },
+    {
+      "video_id": "video7",
+      "split": "train",
+      "id": 7
+    },
+    {
+      "video_id": "video8",
+      "split": "train",
+      "id": 8
+    },
+    {
+      "video_id": "video9",
+      "split": "train",
+      "id": 9
+    },
+    {
+      "video_id": "video0",
+      "split": "train",
+      "id": 0
+    },
+    {
+      "video_id": "video5",
+      "split": "train",
+      "id": 5
+    },
+    {
+      "video_id": "video6",
+      "split": "train",
+      "id": 6
+    },
+    {
+      "video_id": "video52",
+      "split": "train",
+      "id": 52
+    },
+    {
+      "video_id": "video53",
+      "split": "train",
+      "id": 53
+    },
+    {
+      "video_id": "video54",
+      "split": "train",
+      "id": 54
+    },
+    {
+      "video_id": "video55",
+      "split": "train",
+      "id": 55
+    },
+    {
+      "video_id": "video56",
+      "split": "train",
+      "id": 56
+    },
+    {
+      "video_id": "video57",
+      "split": "train",
+      "id": 57
+      
+    },
+    {
+      "video_id": "video58",
+      "split": "train",
+      "id": 58
+    },
+    {
+      "video_id": "video59",
+      "split": "train",
+      "id": 59
+    },
+    {
+      "video_id": "video60",
+      "split": "train",
+      "id": 60
+    },
+    {
+      "video_id": "video61",
+      "split": "train",
+      "id": 61
+    },
+    {
+      "video_id": "video62",
+      "split": "train",
+      "id": 62
+    },
+    {
+      "video_id": "video63",
+      "split": "train",
+      "id": 63
+    },
+    {
+      "video_id": "video64",
+      "split": "train",
+      "id": 64
+    },
+    {
+      "video_id": "video65",
+      "split": "train",
+      "id": 65
+    },
+    {
+      "video_id": "video65",
+      "split": "train",
+      "id": 65
+    },
+    {
+      "video_id": "video66",
+      "split": "train",
+      "id": 66
+    },
+    {
+      "video_id": "video67",
+      "split": "train",
+      "id": 67
+    },
+    {
+      "video_id": "video68",
+      "split": "train",
+      "id": 68
+    },
+    {
+      "video_id": "video69",
+      "split": "train",
+      "id": 69
+    },
+    {
+      "video_id": "video70",
+      "split": "train",
+      "id": 70
+    },
+    {
+      "video_id": "video71",
+      "split": "train",
+      "id": 71
+    },
+    {
+      "video_id": "video72",
+      "split": "train",
+      "id": 72
+    },
+    {
+      "video_id": "video73",
+      "split": "train",
+      "id": 73
+    },
+    {
+      "video_id": "video74",
+      "split": "train",
+      "id": 74
+    },
+    {
+      "video_id": "video75",
+      "split": "train",
+      "id": 75
+    },
+    {
+      "video_id": "video76",
+      "split": "train",
+      "id": 76
+    },
+    {
+      "video_id": "video77",
+      "split": "train",
+      "id": 77
+    },
+    {
+      "video_id": "video78",
+      "split": "train",
+      "id": 78
+    },
+    {
+      "video_id": "video79",
+      "split": "train",
+      "id": 79
+    },
+    {
+      "video_id": "video80",
+      "split": "train",
+      "id": 80
+    },
+    {
+      "video_id": "video81",
+      "split": "train",
+      "id": 81
+    },
+    {
+      "video_id": "video82",
+      "split": "train",
+      "id": 82
+    },
+    {
+      "video_id": "video83",
+      "split": "train",
+      "id": 83
+    },
+    {
+      "video_id": "video84",
+      "split": "train",
+      "id": 84
+    },
+    {
+      "video_id": "video85",
+      "split": "train",
+      "id": 85
+    },
+    {
+      "video_id": "video86",
+      "split": "train",
+      "id": 86
+    },
+    {
+      "video_id": "video87",
+      "split": "train",
+      "id": 87
+    },
+    {
+      "video_id": "video88",
+      "split": "train",
+      "id": 88
+    },
+    {
+      "video_id": "video89",
+      "split": "train",
+      "id": 89
+    },
+    {
+      "video_id": "video90",
+      "split": "train",
+      "id": 90
+    },
+    {
+      "video_id": "video91",
+      "split": "train",
+      "id": 91
+    },
+    {
+      "video_id": "video92",
+      "split": "train",
+      "id": 92
+    },
+    {
+      "video_id": "video93",
+      "split": "train",
+      "id": 93
+    },
+    {
+      "video_id": "video94",
+      "split": "train",
+      "id": 94
+    },
+    {
+      "video_id": "video95",
+      "split": "train",
+      "id": 95
+    },
+    {
+      "video_id": "video96",
+      "split": "train",
+      "id": 96
+    },
+    {
+      "video_id": "video97",
+      "split": "train",
+      "id": 97
+    },
+    {
+      "video_id": "video98",
+      "split": "train",
+      "id": 98
+    },
+    {
+      "video_id": "video99",
+      "split": "train",
+      "id": 99
+    },
+    {
+      "video_id": "video100",
+      "split": "train",
+      "id": 100
+    }
+  ],
+  "sentences": [
+    {
+      "caption": "two lions are walking",
+      "video_id": "video13",
+      "sen_id": 0
+    },
+    {
+      "caption": "a lion walks behind another lion.",
+      "video_id": "video13",
+      "sen_id": 1
+    },
+    {
+      "caption": "a hyena watches a group of cheetahs and laughs",
+      "video_id": "video0",
+      "sen_id": 2
+    },
+    {
+      "caption": "a hyena walks by a group of cheetahs.",
+      "video_id": "video0",
+      "sen_id": 3
+    },
+    {
+      "caption": "cheetahs are walking and crickets are chirping.",
+      "video_id": "video1",
+      "sen_id": 4
+    },
+    {
+      "caption": "cheetahs walk while crickets chirp.",
+      "video_id": "video5",
+      "sen_id": 5
+    },
+    {
+      "caption": "Deer are grazing in the snow and a crow is cawing",
+      "video_id": "video10",
+      "sen_id": 6
+    },
+    {
+      "caption": "Deer graze in the ice while a crow caws.",
+      "video_id": "video10",
+      "sen_id": 7
+    },
+    {
+      "caption": "A tiger is sitting and growling.",
+      "video_id": "video12",
+      "sen_id": 8
+    },
+    {
+      "caption": "A tiger sits and growls.",
+      "video_id": "video12",
+      "sen_id": 9
+    },
+    {
+      "caption": "A tiger is walking and it climbs up a wall while crickets chirp.",
+      "video_id": "video11",
+      "sen_id": 10
+    },
+    {
+      "caption": "A tiger is vlimbing a wall and crickets are chirping.",
+      "video_id": "video11",
+      "sen_id": 11
+    },
+    {
+      "caption": "a cheetah is lying and chirruping.",
+      "video_id": "video2",
+      "sen_id": 12
+    },
+    {
+      "caption": "a cheetah chirrups twice, lying on the ground.",
+      "video_id": "video2",
+      "sen_id": 13
+    },
+    {
+      "caption": "A bear is eating a leaf and a bird is singing.",
+      "video_id": "video3",
+      "sen_id": 14
+    },
+    {
+      "caption": "A bear eats a leaf while birds sing.",
+      "video_id": "video3",
+      "sen_id": 15
+    },
+    {
+      "caption": "A lion is sitting and blinking its eyes.",
+      "video_id": "video4",
+      "sen_id": 16
+    },
+    {
+      "caption": "A lion sits and closes and opens its eyes.",
+      "video_id": "video4",
+      "sen_id": 17
+    },
+    {
+      "caption": "A mongoose is trying to attack a lioness and the other lionesses are watching.",
+      "video_id": "video5",
+      "sen_id": 18
+    },
+    {
+      "caption": "A mongoose snaps at a lioness as other lionesses watch.",
+      "video_id": "video5",
+      "sen_id": 19
+    },
+    {
+      "caption": "A deer is eating a leaf and crickets are chirping.",
+      "video_id": "video6",
+      "sen_id": 20
+    },
+    {
+      "caption": "A deer eats a leaf while crickets chirp.",
+      "video_id": "video6",
+      "sen_id": 21
+    },
+    {
+      "caption": "a deer is standing and birds are singing.",
+      "video_id": "video7",
+      "sen_id": 30
+    },
+    {
+      "caption": "a deer stands while birds sing.",
+      "video_id": "video7",
+      "sen_id": 21
+    },
+    {
+      "caption": "a lion sits and hyenas laugh",
+      "video_id": "video8",
+      "sen_id": 22
+    },
+    {
+      "caption": "a lion is sitting and hyenas are laughing.",
+      "video_id": "video8",
+      "sen_id": 23
+    },
+    {
+      "caption": "a tiger attacks a buffalo as other buffaloes try to save it",
+      "video_id": "video9",
+      "sen_id": 24
+    },
+    {
+      "caption": "a tiger attacks a herd of buffalo.",
+      "video_id": "video9",
+      "sen_id": 25
+    },
+    {
+      "caption": "a deer grazes while birds sing.",
+      "video_id": "video14",
+      "sen_id": 26
+    },
+    {
+      "caption": "a deer is grazing and birds are singing.",
+      "video_id": "video14",
+      "sen_id": 27
+    },
+    {
+      "caption": "an elephant is standing.",
+      "video_id": "video15",
+      "sen_id": 28
+    },
+    {
+      "caption": "an elephant is standing among trees.",
+      "video_id": "video15",
+      "sen_id": 29
+    },
+    {
+      "caption": "a herd of elephants is bathing in a lake and trumpeting.",
+      "video_id": "video16",
+      "sen_id": 30
+    },
+    {
+      "caption": "elephants are bathing in water and trumpeting.",
+      "video_id": "video16",
+      "sen_id": 31
+    },
+    {
+      "caption": "an elephant is walking and birds are singing.",
+      "video_id": "video17",
+      "sen_id": 32
+    },
+    {
+      "caption": "an elephant walks while birds sing.",
+      "video_id": "video17",
+      "sen_id": 33
+    },
+    {
+      "caption": "a giraffe and a rhinoceros are fighting and birds are singing.",
+      "video_id": "video18",
+      "sen_id": 34
+    },
+    {
+      "caption": "a giraffe and rhinoceros fight while birds sing.",
+      "video_id": "video18",
+      "sen_id": 35
+    },
+    {
+      "caption": "a bear is sitting and birds are singing",
+      "video_id": "video19",
+      "sen_id": 36
+    },
+    {
+      "caption": "a bear sits while birds sing.",
+      "video_id": "video19",
+      "sen_id": 37
+    },
+    {
+      "caption": "a herd of deer is grazing and birds are singing.",
+      "video_id": "video20",
+      "sen_id": 38
+    },
+    {
+      "caption": "deer stand and graze while birds sing.",
+      "video_id": "video20",
+      "sen_id": 39
+    },
+    {
+      "caption": "a herd of elephants is running and trumpeting.",
+      "video_id": "video21",
+      "sen_id": 40
+    },
+    {
+      "caption": "elephants run and trumpet.",
+      "video_id": "video21",
+      "sen_id": 41
+    },
+    {
+      "caption": "a giraffe is touching another giraffe near a lake.",
+      "video_id": "video22",
+      "sen_id": 42
+    },
+    {
+      "caption": "giraffes fight near the lake as the wind blows.",
+      "video_id": "video22",
+      "sen_id": 43
+    },
+    {
+      "caption": "birds are sitting on the back of a rhinoceros.",
+      "video_id": "video23",
+      "sen_id": 44
+    },
+    {
+      "caption": "a rhinoceros is sitting and birds are sitting on its back.",
+      "video_id": "video23",
+      "sen_id": 45
+    },
+    {
+      "caption": "a rhinoceros is walking and birds are cooing.",
+      "video_id": "video24",
+      "sen_id": 46
+    },
+    {
+      "caption": "a rhinoceros walks and birds coo.",
+      "video_id": "video24",
+      "sen_id": 47
+    },
+    {
+      "caption": "a tiger walks with its cub as birds chirp.",
+      "video_id": "video25",
+      "sen_id": 48
+    },
+    {
+      "caption": "a tiger and its cubs are walking and birds are singing.",
+      "video_id": "video25",
+      "sen_id": 49
+    },
+    {
+      "caption": "elephants are running through the water and more elephants are coming out of the trees.",
+      "video_id": "video26",
+      "sen_id": 50
+    },
+    {
+      "caption": "elephants run in the water as more elephants come out of the trees.",
+      "video_id": "video26",
+      "sen_id": 51
+    },
+    {
+      "caption": "elephants are running in the water.",
+      "video_id": "video27",
+      "sen_id": 52
+    },
+    {
+      "caption": "elephants run through the water.",
+      "video_id": "video27",
+      "sen_id": 53
+    },
+    {
+      "caption": "an elpahnt is playing with a baby elephant and birds are chirping.",
+      "video_id": "video28",
+      "sen_id": 54
+    },
+    {
+      "caption": "an elephant plays with its baby and birds chirp.",
+      "video_id": "video28",
+      "sen_id": 55
+    },
+    {
+      "caption": "an elephant is walking and the mud is sloshing.",
+      "video_id": "video29",
+      "sen_id": 56
+    },
+    {
+      "caption": "mud sloshes as an elephant walks through it.",
+      "video_id": "video29",
+      "sen_id": 57
+    },
+    {
+      "caption": "an elephant is plucking a leaf and eating it.",
+      "video_id": "video30",
+      "sen_id": 58
+    },
+    {
+      "caption": "an elephant plucks a leaf and eats it.",
+      "video_id": "video30",
+      "sen_id": 59
+    },
+    {
+      "caption": "tiger roars at deer, deer sees the tiger and the tiger roars again.",
+      "video_id": "video31",
+      "sen_id": 60
+    },
+    {
+      "caption": "deer barks and tiger stares at it.",
+      "video_id": "video32",
+      "sen_id": 61
+    },
+    {
+      "caption": "tiger walks behind trees and deer bark.",
+      "video_id": "video33",
+      "sen_id": 62
+    },
+    {
+      "caption": "lion walks and roars.",
+      "video_id": "video34",
+      "sen_id": 63
+    },
+    {
+      "caption": "a pride of lions is sleeping",
+      "video_id": "video35",
+      "sen_id": 64
+    },
+    {
+      "caption": "a lion licks its paws while another lion sits.",
+      "video_id": "video36",
+      "sen_id": 65
+    },
+    {
+      "caption": "A tiger is sitting and is yawning while the birds are chirping.",
+      "video_id": "video37",
+      "sen_id": 66
+    },
+    {
+      "caption": "A giraffe is eating the leaves of a tree while the insects are making a buzzing noise.",
+      "video_id": "video38",
+      "sen_id": 67
+    },
+    {
+      "caption": "Two giraffes are present and one is eating leaves and other one is roaming.A bird is shouting.",
+      "video_id": "video39",
+      "sen_id": 68
+    },
+    {
+      "caption": "A tiger is sitting and drinking water and birds are chirping.",
+      "video_id": "video40",
+      "sen_id": 69
+    },
+    {
+      "caption": "A lion is standing and roaring loudly",
+      "video_id": "video41",
+      "sen_id": 70
+    },
+    {
+      "caption": "One rhino is walking and the second one also walks behind the first and birds are chirping.",
+      "video_id": "video42",
+      "sen_id": 71
+    },
+    {
+      "caption": "There are two rhinos at the start and later the first rhino covers the second.The birds are chirping.",
+      "video_id": "video43",
+      "sen_id": 72
+    },
+    {
+      "caption": "A crcodile is eating an animal as water splashes.",
+      "video_id": "video44",
+      "sen_id": 73
+    },
+    {
+      "caption": "Crocodiles swim through water and water ripples.",
+      "video_id": "video45",
+      "sen_id": 74
+    },
+    {
+      "caption": "Wildebeests drink water as birds chirp.",
+      "video_id": "video46",
+      "sen_id": 75
+    },
+    {
+      "caption": "A zebra is braying while birds are chirping.",
+      "video_id": "video47",
+      "sen_id": 76
+    },
+    {
+      "caption": "A crocodile is lying on the ground.",
+      "video_id": "video48",
+      "sen_id": 77
+    },
+    {
+      "caption": "A crocodile is cracking an egg with its teeth in the water.",
+      "video_id": "video49",
+      "sen_id": 78
+    },
+    {
+      "caption": "A crocodile crawls into the water.",
+      "video_id": "video50",
+      "sen_id": 79
+    },
+    {
+      "caption": "A hyena is walking and birds are chirping",
+      "video_id": "video51",
+      "sen_id": 80
+    },
+    {
+      "caption": "A giraffe is walking and birds are chirping",
+      "video_id": "video52",
+      "sen_id": 81
+    },
+    {
+      "caption": "An elephant is bathing in water while birds are chirping",
+      "video_id": "video53",
+      "sen_id": 82
+    },
+    {
+      "caption": "An elephant is drinking water while birds are chirping",
+      "video_id": "video54",
+      "sen_id": 83
+    },
+    {
+      "caption": "A zebra is drinking water and birds are chirping",
+      "video_id": "video55",
+      "sen_id": 84
+    },
+    {
+      "caption": "A zebra is lying on the ground",
+      "video_id": "video56",
+      "sen_id": 85
+    },
+    {
+      "caption": "A herd of zebra is sleeping",
+      "video_id": "video57",
+      "sen_id": 86
+    },
+    {
+      "caption": "A zebra is standing and braying",
+      "video_id": "video58",
+      "sen_id": 87
+    },
+    {
+      "caption": "A zebra is walking and birds are chirping",
+      "video_id": "video59",
+      "sen_id": 88
+    },
+    {
+      "caption": "A zebra is bathing in water and birds are chirping",
+      "video_id": "video60",
+      "sen_id": 89
+    },
+    {
+      "caption": "A tiger runs and roars",
+      "video_id": "video61",
+      "sen_id": 90
+    },
+    {
+      "caption": "A tiger wanders as bird chirp",
+      "video_id": "video62",
+      "sen_id": 91
+    },
+    {
+      "caption": "Lion pride is walking",
+      "video_id": "video63",
+      "sen_id": 92
+    },
+    {
+      "caption": "A tiger lies and it roars",
+      "video_id": "video64",
+      "sen_id": 93
+    },
+    {
+      "caption": "A tiger sits, and his eyes blinking.",
+      "video_id": "video65",
+      "sen_id": 94
+    },
+    {
+      "caption": "A Lion attacks a Buffalo Herd",
+      "video_id": "video66",
+      "sen_id": 95
+    },
+    {
+      "caption": "A cheetah watches buffalo herd",
+      "video_id": "video67",
+      "sen_id": 96
+    },
+    {
+      "caption": "A cheetah is drinking water as birds chirp",
+      "video_id": "video68",
+      "sen_id": 97
+    },
+    {
+      "caption": "A cheetah attacks a buffalo",
+      "video_id": "video69",
+      "sen_id": 98
+    },
+    {
+      "caption": "A cheetah is standing while birds are chirping",
+      "video_id": "video70",
+      "sen_id": 99
+    },
+    {
+      "caption": "A lion is drinking water",
+      "video_id": "video71",
+      "sen_id": 100
+    }
+  ]
+}
